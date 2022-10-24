@@ -1,0 +1,12 @@
+body{
+    background-color: brown;
+}
+h2{
+    color: chocolate;
+}
+.CambiaréLaFuente{
+    font-family: monospace;
+}
+#CambioBolder{
+    font-weight: 800;
+}
